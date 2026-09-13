@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-south-1
-  ECR_REGISTRY: 502309405938.dkr.ecr.ap-south-1.amazonaws.com
+  ECR_REGISTRY: 
   ECR_REPOSITORY: test/project1
 
 jobs:
