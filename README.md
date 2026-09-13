@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HT-DevOps
 
 
@@ -182,3 +183,6 @@ target/demo-app-1.0.jar
 
 ---
 
+=======
+# myproject1
+>>>>>>> 1dbf6c7493e9a3fa5d5f6e82c9f44149ab99d965
